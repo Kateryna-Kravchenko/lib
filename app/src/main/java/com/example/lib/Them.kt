@@ -12,4 +12,5 @@ class Them {
     @SuppressLint("ResourceAsColor")
     val colorRed: Color = Color.valueOf(R.color.purple_200)
     val colorRed2: Color = Color.valueOf(R.color.purple_200)
+    val colorRed3: Color = Color.valueOf(R.color.purple_200)
 }
