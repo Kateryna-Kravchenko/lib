@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "lib"
 include ':app'
+include ':version2'
