@@ -11,4 +11,4 @@ class Them {
     @RequiresApi(Build.VERSION_CODES.O)
     @SuppressLint("ResourceAsColor")
     val colorRed: Color = Color.valueOf(R.color.purple_200)
-}
+ }
